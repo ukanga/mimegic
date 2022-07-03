@@ -1,6 +1,7 @@
 # mimegic
 A simple cli to check the mimetype of a given file.
 
+```
 mimemagic
 
 USAGE:
@@ -11,3 +12,4 @@ ARGS:
 
 OPTIONS:
     -h, --help    Print help information
+```
